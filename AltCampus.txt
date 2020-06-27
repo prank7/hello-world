@@ -1,1 +1,2 @@
-AltCampus is based in a beautiful hill station called Dharamshala, which is in India.
+AltCampus is based out of a beautiful hill station in the Indian Himalayas called Dharamshala. 
+At AltCampus, we love helpinig people learn software development.
