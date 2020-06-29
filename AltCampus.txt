@@ -1,2 +1,4 @@
 AltCampus is based out of a beautiful hill station in the Indian Himalayas called Dharamshala. 
 At AltCampus, we love helpinig people learn software development.
+
+You can learn more about AltCampus here - https://altcampus.io
